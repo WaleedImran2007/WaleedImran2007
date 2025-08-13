@@ -51,11 +51,8 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WaleedImran2007/WaleedImran2007/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WaleedImran2007/WaleedImran2007/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/WaleedImran2007/WaleedImran2007/output/snake.svg" />
-</picture>
+
+![snake gif](https://github.com/WaleedImran2007/WaleedImran2007/blob/output/github-snake-dark.svg)
 
 
 ---
