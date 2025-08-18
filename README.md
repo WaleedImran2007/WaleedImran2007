@@ -24,15 +24,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## ​ Featured Projects
+
 <p align="center">
-  <a href="https://portfolio-nine-inky-76.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=waleedimran2007&repo=portfolio&theme=tokyonight" />
+  <a href="https://github.com/WaleedImran2007/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedImran2007&repo=portfolio&theme=tokyonight" alt="Portfolio Repo" />
   </a>
-  <a href="https://github.com/WaleedImran2007">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=waleedimran2007&repo=apple-game&theme=tokyonight" />
+  <a href="https://github.com/WaleedImran2007/stone-paper-scissors">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedImran2007&repo=stone-paper-scissors&theme=tokyonight" alt="Stone Paper Scissors Repo" />
   </a>
 </p>
+
 
 ---
 
