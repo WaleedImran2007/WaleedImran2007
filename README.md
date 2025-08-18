@@ -32,8 +32,8 @@
     <img src="https://img.shields.io/badge/-🔗%20Linktree%20Clone-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>  
   <br>
-  A custom **Linktree alternative** built with Next.Js and Tailwind CSS.  
-  Responsive UI • Easy to customize • Share all links in one place  
+  A modern and customizable <b>Linktree clone</b> where users can manage multiple social and professional links in one place. 
+        Built with clean UI and responsive design so it works perfectly across devices. 
 </p>
   <br><br>
 <p align="center">
@@ -41,8 +41,8 @@
     <img src="https://img.shields.io/badge/-✂️%20URL%20Shortener-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>  
   <br>
-  A functional **URL shortening web app** built with Next Js and Tailwind CSS.  
-  Shortens long URLs instantly • Copy-to-clipboard • Clean design  
+  A simple yet powerful <b>URL shortening tool</b> that generates 
+        clean and shareable short links. It is designed to be lightweight and efficient while still providing a smooth user experience.  
 
 </p>
 
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/-🌐%20Portfolio%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>  
   <br>
-  My personal portfolio built with **Next.js, React, and Tailwind CSS** showcasing my skills & projects  
+  My personal <b>Portfolio</b> built with Next.js, React, and Tailwind CSS showcasing my skills & projects  
 
 </p>
 
