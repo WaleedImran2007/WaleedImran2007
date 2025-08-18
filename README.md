@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **C++, JavaScript Projects & My Portfolio Website**  
+- 🔭 Currently working on **C++, Web Dev Projects & Python Projects**  
 - 🤝 Open to collaborate on **Web Development & Open-Source Projects**  
 - 💬 Ask me about **C++, JavaScript, React, and Web Design**  
 - 📫 Reach me at: **imrankhalida2009@gmail.com**  
