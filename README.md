@@ -24,15 +24,37 @@
 
 ---
 
-## ​ Featured Projects
+## 🚀 Featured Projects
+
+<p align="center">
+
+  <a href="https://github.com/WaleedImran2007/linktree-clone">
+    <img src="https://img.shields.io/badge/-🔗%20Linktree%20Clone-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  
+  <br>
+  A custom **Linktree alternative** built with Next.Js and Tailwind CSS.  
+  Responsive UI • Easy to customize • Share all links in one place  
+</p>
+  <br><br>
+<p align="center">
+  <a href="https://github.com/WaleedImran2007/url-shortener">
+    <img src="https://img.shields.io/badge/-✂️%20URL%20Shortener-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  
+  <br>
+  A functional **URL shortening web app** built with Next Js and Tailwind CSS.  
+  Shortens long URLs instantly • Copy-to-clipboard • Clean design  
+
+</p>
+
+  <br><br>
 
 <p align="center">
   <a href="https://github.com/WaleedImran2007/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedImran2007&repo=portfolio&theme=tokyonight" alt="Portfolio Repo" />
-  </a>
-  <a href="https://github.com/WaleedImran2007/stone-paper-scissors">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedImran2007&repo=stone-paper-scissors&theme=tokyonight" alt="Stone Paper Scissors Repo" />
-  </a>
+    <img src="https://img.shields.io/badge/-🌐%20Portfolio%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>  
+  <br>
+  My personal portfolio built with **Next.js, React, and Tailwind CSS** showcasing my skills & projects  
+
 </p>
 
 
