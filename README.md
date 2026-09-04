@@ -215,10 +215,10 @@ I'm continuously trying to move from **"building applications"** toward **"under
   <a href="mailto:imrankhalida2009@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/waleed-imran-00ba01358/">
+  <a href="https://www.linkedin.com/in/waleed-imran-241394418/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/prof.waleed08/">
+  <a href="https://www.instagram.com/waleedimran.07/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/986936066848215040">
